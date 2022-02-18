@@ -87,5 +87,30 @@
 #     print(sum)
 # squares_sum(3)
 
+# Завдання 9
+#def sum_even_nums_in_range(start, stop):
+#   sum = 0
+#   while start <= stop+1:
+#       if start % 2 == 0:
+#        sum = start + 1
+#        if start > stop:
+#            break
+#            print(sum)
+#
+#sum_even_nums_in_range(10, 20)
+
+#Завдання_10
+#def mean(numbers):
+#    s = str(numbers)
+#    k = 0
+#    for i in range(len(s)):
+#        k = k + int(s[i])
+#    return k / len(s)
+#
+#
+#print(mean(42))
+#print(mean(12345))
+#print(mean(666))
+
 
 
